@@ -1,0 +1,82 @@
+body {
+   background: linear-gradient(to left, rgb(213, 224, 192),rgba(203, 208, 43, 0.594))
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+.point {
+   text-align: center;
+   color: rgba(197, 128, 1, 0.817);
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: separate;
+    background-color: azure;
+    width: 1000px;
+    margin: auto;
+    font-family: monospace;
+    font-size: larger;
+    text-align: center;
+ }
+
+ tr {
+    border: 1px solid black;
+    height: 50px;
+ }
+
+ #head {
+    background-color: antiquewhite;
+ }
+
+ .first_window {
+   background-color: antiquewhite;
+ }
+
+ th {
+    border: 1px solid black;
+    width: 100px;
+ }
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
